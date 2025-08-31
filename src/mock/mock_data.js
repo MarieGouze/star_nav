@@ -150,13 +150,6 @@ export const mockData = {
       "order": 4,
       "sites": [
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "vscode",
           "name": "VS Code",
           "url": "https://code.visualstudio.com",
@@ -169,13 +162,6 @@ export const mockData = {
           "url": "https://dashboard.render.com/",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
