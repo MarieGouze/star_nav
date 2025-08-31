@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://www.midjourney.com",
           "description": "AI图像生成工具",
           "icon": "/sitelogo/www.midjourney.com.ico"
+        },
+        {
+          "id": "site-1756626074973",
+          "name": "Deepseek",
+          "url": "https://chat.deepseek.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000"
         }
       ]
     },
@@ -141,6 +148,13 @@ export const mockData = {
           "url": "https://code.visualstudio.com",
           "description": "代码编辑器",
           "icon": "/sitelogo/code.visualstudio.com.ico"
+        },
+        {
+          "id": "site-1756627252422",
+          "name": "Render",
+          "url": "https://dashboard.render.com/",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
         }
       ]
     },
@@ -179,13 +193,6 @@ export const mockData = {
           "icon": "/sitelogo/www.52pojie.cn.ico"
         }
       ]
-    },
-    {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 5,
-      "sites": []
     },
     {
       "id": "learning",
@@ -238,18 +245,25 @@ export const mockData = {
           "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
-          "id": "douban",
-          "name": "豆瓣",
-          "url": "https://www.douban.com",
-          "description": "文艺生活社区",
-          "icon": "/sitelogo/www.douban.com.ico"
+          "id": "site-1756629130330",
+          "name": "Libvio",
+          "url": "https://www.libvio.site/",
+          "description": "",
+          "icon": "data:image/png;base64,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"
         },
         {
-          "id": "zhihu",
-          "name": "知乎",
-          "url": "https://www.zhihu.com",
-          "description": "知识问答社区",
-          "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
+          "id": "site-1756629365229",
+          "name": "Spotify",
+          "url": "https://open.spotify.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=uReW0m8BAaaL&format=png&color=000000"
+        },
+        {
+          "id": "site-1756629652762",
+          "name": "HEmusic",
+          "url": "https://y.wjhe.top/#/discover?platform=kuwo",
+          "description": "",
+          "icon": "https://marieniris.qzz.io/file/img/1756629622909_logo-icon.png"
         }
       ]
     },
@@ -258,7 +272,57 @@ export const mockData = {
       "icon": "🌐",
       "name": "API大王",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1756627500941",
+          "name": "Jimihub",
+          "url": "https://starhub-1025.onrender.com/admin/",
+          "description": "哈基米轮询工具",
+          "icon": "https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000"
+        },
+        {
+          "id": "site-1756627687855",
+          "name": "Google OAuth 认证管理",
+          "url": "https://moon-it5n.onrender.com/",
+          "description": "Gemini cli工具",
+          "icon": "https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000"
+        },
+        {
+          "id": "site-1756627933433",
+          "name": "Gemini Balance",
+          "url": "https://gemini-king.onrender.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=5yG9ySisa8NH&format=png&color=000000"
+        },
+        {
+          "id": "site-1756628049405",
+          "name": "Starload",
+          "url": "https://starload-zvlb.onrender.com/",
+          "description": "",
+          "icon": "https://marieniris.qzz.io/file/img/1756628303946_logo.png"
+        },
+        {
+          "id": "site-1756628435631",
+          "name": "Gemini API 代理服务",
+          "url": "https://starlight-j5rd.onrender.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=6WRLrWVAXidL&format=png&color=000000"
+        },
+        {
+          "id": "site-1756628630719",
+          "name": "Marie API",
+          "url": "https://api-king-1thr.onrender.com/",
+          "description": "",
+          "icon": "https://marieniris.qzz.io/file/img/1756628623407_logo__1_.png"
+        },
+        {
+          "id": "site-1756628912052",
+          "name": "硅基流动Token管理",
+          "url": "https://siliconflow.monickpoxno.workers.dev/admin",
+          "description": "",
+          "icon": "https://marieniris.qzz.io/file/img/1756628883696_屏幕截图_2025-08-31_162736.png"
+        }
+      ]
     },
     {
       "id": "office",
@@ -282,10 +346,25 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1756569843565",
+          "id": "site-1756626845092",
           "name": "StarImg",
           "url": "https://marieniris.qzz.io/",
-          "description": "自建图床"
+          "description": "自建图床",
+          "icon": "https://marieniris.qzz.io/file/img/1756626799088_logo.e8dbfa27.png"
+        },
+        {
+          "id": "site-1756627377739",
+          "name": "KeepAlive Worker",
+          "url": "https://upstar.monickpoxno.workers.dev/",
+          "description": "自建保活工具",
+          "icon": "https://img.icons8.com/?size=100&id=79045&format=png&color=000000"
+        },
+        {
+          "id": "site-1756627806496",
+          "name": "Render Manager",
+          "url": "https://mariefreenhappy.dpdns.org/",
+          "description": "render账户管理面板",
+          "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
         }
       ]
     }
