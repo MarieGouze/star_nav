@@ -551,6 +551,13 @@ export const mockData = {
           "url": "https://mail.qq.com",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=16340&format=png&color=000000"
+        },
+        {
+          "id": "site-1756647554741",
+          "name": "Reddit",
+          "url": "https://www.reddit.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=000000"
         }
       ]
     },
