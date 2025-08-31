@@ -130,105 +130,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "dev-tools",
-      "name": "开发工具",
-      "icon": "🛠️",
-      "order": 3,
-      "sites": [
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "/sitelogo/code.visualstudio.com.ico"
-        },
-        {
-          "id": "site-1756627252422",
-          "name": "Render",
-          "url": "https://dashboard.render.com/",
-          "description": "",
-          "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
-        }
-      ]
-    },
-    {
-      "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
-      "order": 4,
-      "sites": [
-        {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
-        },
-        {
-          "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
-        },
-        {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "learning",
-      "name": "学习资源",
-      "icon": "📚",
-      "order": 6,
-      "sites": [
-        {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
-        }
-      ]
-    },
-    {
-      "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
-      "order": 7,
-      "sites": [
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        }
-      ]
-    },
-    {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 3,
       "sites": [
         {
           "id": "bilibili",
@@ -268,10 +173,112 @@ export const mockData = {
       ]
     },
     {
+      "id": "dev-tools",
+      "name": "开发工具",
+      "icon": "🛠️",
+      "order": 4,
+      "sites": [
+        {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "vscode",
+          "name": "VS Code",
+          "url": "https://code.visualstudio.com",
+          "description": "代码编辑器",
+          "icon": "/sitelogo/code.visualstudio.com.ico"
+        },
+        {
+          "id": "site-1756627252422",
+          "name": "Render",
+          "url": "https://dashboard.render.com/",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "name": "社区论坛",
+      "icon": "👥",
+      "order": 5,
+      "sites": [
+        {
+          "id": "linuxdo",
+          "name": "Linux.do",
+          "url": "https://linux.do",
+          "description": "Linux与开源技术社区",
+          "icon": "/sitelogo/linux.do.ico"
+        },
+        {
+          "id": "nodeseek",
+          "name": "NodeSeek",
+          "url": "https://www.nodeseek.com",
+          "description": "极客技术社区",
+          "icon": "/sitelogo/www.nodeseek.com.ico"
+        },
+        {
+          "id": "v2ex",
+          "name": "V2EX",
+          "url": "https://www.v2ex.com",
+          "description": "创意工作者社区",
+          "icon": "/sitelogo/www.v2ex.com.ico"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "/sitelogo/www.52pojie.cn.ico"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "在线工具",
+      "icon": "⚙️",
+      "order": 6,
+      "sites": [
+        {
+          "id": "regex101",
+          "name": "Regex101",
+          "url": "https://regex101.com",
+          "description": "正则表达式测试",
+          "icon": "/sitelogo/regex101.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 7,
+      "sites": [
+        {
+          "id": "coursera",
+          "name": "Coursera",
+          "url": "https://www.coursera.org",
+          "description": "在线课程平台",
+          "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1756632642909",
+          "name": "Z-Library导航",
+          "url": "https://en.wikipedia.org/wiki/Z-Library",
+          "description": "",
+          "icon": "https://z-library.sk/favicon.ico"
+        }
+      ]
+    },
+    {
       "id": "category-1756532703044",
       "icon": "🌐",
       "name": "API大王",
-      "order": 0,
+      "order": 8,
       "sites": [
         {
           "id": "site-1756627500941",
@@ -328,7 +335,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 10,
+      "order": 9,
       "sites": [
         {
           "id": "notion",
@@ -343,7 +350,7 @@ export const mockData = {
       "id": "category-1756569795137",
       "icon": "💻",
       "name": "自建小工具",
-      "order": 0,
+      "order": 10,
       "sites": [
         {
           "id": "site-1756626845092",
@@ -365,6 +372,94 @@ export const mockData = {
           "url": "https://mariefreenhappy.dpdns.org/",
           "description": "render账户管理面板",
           "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
+        }
+      ]
+    },
+    {
+      "id": "category-1756630014194",
+      "icon": "🎨",
+      "name": "涩涩",
+      "order": 11,
+      "sites": [
+        {
+          "id": "site-1756630280359",
+          "name": "Asmr Online",
+          "url": "https://asmr-300.com/works",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=FpQ4Uvcmuo98&format=png&color=000000"
+        },
+        {
+          "id": "site-1756630701580",
+          "name": "GoneWildAudio Search Interface",
+          "url": "https://gwasi.com/",
+          "description": "",
+          "icon": "https://gwasi.com/favicon.ico"
+        },
+        {
+          "id": "site-1756631002389",
+          "name": "hanime",
+          "url": "https://hanime1.me/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=ksXP8TH62Tcm&format=png&color=000000"
+        }
+      ]
+    },
+    {
+      "id": "category-1756631246317",
+      "icon": "🎮",
+      "name": "游戏相关",
+      "order": 12,
+      "sites": [
+        {
+          "id": "site-1756631316135",
+          "name": "风灵月影",
+          "url": "https://flingtrainer.com/",
+          "description": "",
+          "icon": "https://flingtrainer.com/wp-content/uploads/2019/05/cropped-free-icon-bw_icon-template-psd-3-3-45x45.png"
+        },
+        {
+          "id": "site-1756631454359",
+          "name": "Nexus Mods",
+          "url": "https://www.nexusmods.com/",
+          "description": "",
+          "icon": "https://www.nexusmods.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1756631859807",
+      "icon": "🌐",
+      "name": "漫画",
+      "order": 13,
+      "sites": [
+        {
+          "id": "site-1756631758385",
+          "name": "百合会",
+          "url": "https://bbs.yamibo.com/",
+          "description": "",
+          "icon": "https://bbs.yamibo.com/favicon.ico"
+        },
+        {
+          "id": "site-1756631997551",
+          "name": "嗨皮漫画",
+          "url": "https://m.happymh.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=IrfgoUvvpLsG&format=png&color=000000"
+        }
+      ]
+    },
+    {
+      "id": "category-1756632141978",
+      "icon": "📊",
+      "name": "福利羊毛",
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1756632272035",
+          "name": "线报酷",
+          "url": "https://new.xianbao.fun/",
+          "description": "",
+          "icon": "https://new.xianbao.fun/favicon.ico"
         }
       ]
     }
