@@ -502,6 +502,13 @@ export const mockData = {
           "url": "ttps://mail.google.com/mail/u/0/#inbox",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=UVMl6gMRl2Sq&format=png&color=000000"
+        },
+        {
+          "id": "site-1756634735278",
+          "name": "QQ邮箱",
+          "url": "https://mail.qq.com",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=16340&format=png&color=000000"
         }
       ]
     },
