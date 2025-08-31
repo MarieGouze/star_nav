@@ -485,7 +485,7 @@ export const mockData = {
           "name": "Miss AV",
           "url": "https://missav.ws/",
           "description": "",
-          "icon": "https://missav.ws/favicon.ico"
+          "icon": "https://marieniris.qzz.io/file/img/1756654925474_favicon__1_.ico"
         }
       ]
     },
