@@ -1,110 +1,10 @@
 export const mockData = {
   "categories": [
     {
-      "id": "my-favorites",
-      "name": "我的常用",
-      "icon": "💥",
-      "order": 0,
-      "sites": []
-    },
-    {
-      "id": "ai-tools",
-      "name": "AI智能",
-      "icon": "🤖",
-      "order": 1,
-      "sites": [
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "site-1756626074973",
-          "name": "Deepseek",
-          "url": "https://chat.deepseek.com/",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "cloud",
-      "name": "云服务",
-      "icon": "☁️",
-      "order": 2,
-      "sites": [
-        {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
-        {
-          "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
-          "icon": "/sitelogo/vercel.com.ico"
-        },
-        {
-          "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
-        },
-        {
-          "id": "aliyun",
-          "name": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里巴巴云计算",
-          "icon": "/sitelogo/www.aliyun.com.ico"
-        },
-        {
-          "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "/sitelogo/www.huaweicloud.com.ico"
-        }
-      ]
-    },
-    {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 2,
+      "order": 0,
       "sites": [
         {
           "id": "bilibili",
@@ -144,24 +44,88 @@ export const mockData = {
       ]
     },
     {
-      "id": "dev-tools",
-      "name": "开发工具",
-      "icon": "🛠️",
-      "order": 4,
+      "id": "category-1756633735293",
+      "icon": "👥",
+      "name": "SNS",
+      "order": 1,
       "sites": [
         {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "/sitelogo/code.visualstudio.com.ico"
+          "id": "site-1756634162693",
+          "name": "Telegram",
+          "url": "https://web.telegram.org/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=Q7Ekaw3BkWRp&format=png&color=000000"
         },
         {
-          "id": "site-1756627252422",
-          "name": "Render",
-          "url": "https://dashboard.render.com/",
+          "id": "site-1756634254703",
+          "name": "Discord",
+          "url": "https://discord.com/channels/@me",
           "description": "",
-          "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
+          "icon": "https://img.icons8.com/?size=100&id=6Bc9ur2o7rfS&format=png&color=000000"
+        },
+        {
+          "id": "site-1756634527581",
+          "name": "Gmail",
+          "url": "ttps://mail.google.com/mail/u/0/#inbox",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=UVMl6gMRl2Sq&format=png&color=000000"
+        },
+        {
+          "id": "site-1756634735278",
+          "name": "QQ邮箱",
+          "url": "https://mail.qq.com",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=16340&format=png&color=000000"
+        },
+        {
+          "id": "site-1756647554741",
+          "name": "Reddit",
+          "url": "https://www.reddit.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=000000"
+        }
+      ]
+    },
+    {
+      "id": "ai-tools",
+      "name": "AI智能",
+      "icon": "🤖",
+      "order": 2,
+      "sites": [
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "description": "OpenAI对话AI助手",
+          "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "claude",
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "Anthropic AI助手",
+          "icon": "/sitelogo/claude.ai.ico"
+        },
+        {
+          "id": "midjourney",
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "description": "AI图像生成工具",
+          "icon": "/sitelogo/www.midjourney.com.ico"
+        },
+        {
+          "id": "site-1756626074973",
+          "name": "Deepseek",
+          "url": "https://chat.deepseek.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000"
+        },
+        {
+          "id": "site-1752857783656",
+          "name": "OpenAI",
+          "url": "https://chatgpt.com",
+          "description": "OpenAI,好用👌",
+          "icon": "/sitelogo/chatgpt.com.ico"
         }
       ]
     },
@@ -169,7 +133,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 8,
+      "order": 3,
       "sites": [
         {
           "id": "linuxdo",
@@ -205,7 +169,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 6,
+      "order": 4,
       "sites": [
         {
           "id": "regex101",
@@ -245,24 +209,24 @@ export const mockData = {
       ]
     },
     {
-      "id": "learning",
-      "name": "学习资源",
-      "icon": "📚",
-      "order": 7,
+      "id": "dev-tools",
+      "name": "开发工具",
+      "icon": "🛠️",
+      "order": 5,
       "sites": [
         {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
+          "id": "vscode",
+          "name": "VS Code",
+          "url": "https://code.visualstudio.com",
+          "description": "代码编辑器",
+          "icon": "/sitelogo/code.visualstudio.com.ico"
         },
         {
-          "id": "site-1756632642909",
-          "name": "Z-Library导航",
-          "url": "https://en.wikipedia.org/wiki/Z-Library",
+          "id": "site-1756627252422",
+          "name": "Render",
+          "url": "https://dashboard.render.com/",
           "description": "",
-          "icon": "https://z-library.sk/favicon.ico"
+          "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
         }
       ]
     },
@@ -324,39 +288,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 7,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
-        },
-        {
-          "id": "site-1756646860581",
-          "name": "Google Drive",
-          "url": "https://drive.google.com/drive/quota",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=RhavBYVQEbAz&format=png&color=000000"
-        },
-        {
-          "id": "site-1756647116848",
-          "name": "Onedrive",
-          "url": "https://onedrive.live.com/",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=0ujrDC5ACZpu&format=png&color=000000"
-        }
-      ]
-    },
-    {
       "id": "category-1756569795137",
       "icon": "💻",
       "name": "自建小工具",
-      "order": 5,
+      "order": 7,
       "sites": [
         {
           "id": "site-1756626845092",
@@ -378,6 +313,107 @@ export const mockData = {
           "url": "https://mariefreenhappy.dpdns.org/",
           "description": "render账户管理面板",
           "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
+        }
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "云服务",
+      "icon": "☁️",
+      "order": 8,
+      "sites": [
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "vercel",
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "前端部署平台",
+          "icon": "/sitelogo/vercel.com.ico"
+        },
+        {
+          "id": "aws",
+          "name": "AWS",
+          "url": "https://aws.amazon.com",
+          "description": "亚马逊云服务",
+          "icon": "/sitelogo/aws.amazon.com.ico"
+        },
+        {
+          "id": "aliyun",
+          "name": "阿里云",
+          "url": "https://www.aliyun.com",
+          "description": "阿里巴巴云计算",
+          "icon": "/sitelogo/www.aliyun.com.ico"
+        },
+        {
+          "id": "tencent-cloud",
+          "name": "腾讯云",
+          "url": "https://cloud.tencent.com",
+          "description": "腾讯云计算服务",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "huawei-cloud",
+          "name": "华为云",
+          "url": "https://www.huaweicloud.com",
+          "description": "华为云计算服务",
+          "icon": "/sitelogo/www.huaweicloud.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1756633771510",
+      "icon": "☁️",
+      "name": "电子宠物",
+      "order": 9,
+      "sites": [
+        {
+          "id": "site-1756638878400",
+          "name": "酒馆",
+          "url": "http://127.0.0.1:8000/",
+          "description": "",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
+        },
+        {
+          "id": "site-1756647262332",
+          "name": "Janitor AI",
+          "url": "https://janitorai.com/",
+          "description": "",
+          "icon": "https://ella.janitorai.com/hotlink-ok/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "office",
+      "name": "办公协作",
+      "icon": "💼",
+      "order": 10,
+      "sites": [
+        {
+          "id": "notion",
+          "name": "Notion",
+          "url": "https://www.notion.so",
+          "description": "全能工作空间",
+          "icon": "/sitelogo/www.notion.so.ico"
+        },
+        {
+          "id": "site-1756646860581",
+          "name": "Google Drive",
+          "url": "https://drive.google.com/drive/quota",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=RhavBYVQEbAz&format=png&color=000000"
+        },
+        {
+          "id": "site-1756647116848",
+          "name": "Onedrive",
+          "url": "https://onedrive.live.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=0ujrDC5ACZpu&format=png&color=000000"
         }
       ]
     },
@@ -476,10 +512,32 @@ export const mockData = {
       ]
     },
     {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 14,
+      "sites": [
+        {
+          "id": "coursera",
+          "name": "Coursera",
+          "url": "https://www.coursera.org",
+          "description": "在线课程平台",
+          "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1756632642909",
+          "name": "Z-Library导航",
+          "url": "https://en.wikipedia.org/wiki/Z-Library",
+          "description": "",
+          "icon": "https://z-library.sk/favicon.ico"
+        }
+      ]
+    },
+    {
       "id": "category-1756632141978",
       "icon": "📊",
       "name": "福利羊毛",
-      "order": 5,
+      "order": 15,
       "sites": [
         {
           "id": "site-1756632272035",
@@ -498,69 +556,11 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1756633735293",
-      "icon": "👥",
-      "name": "SNS",
-      "order": 3,
-      "sites": [
-        {
-          "id": "site-1756634162693",
-          "name": "Telegram",
-          "url": "https://web.telegram.org/",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=Q7Ekaw3BkWRp&format=png&color=000000"
-        },
-        {
-          "id": "site-1756634254703",
-          "name": "Discord",
-          "url": "https://discord.com/channels/@me",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=6Bc9ur2o7rfS&format=png&color=000000"
-        },
-        {
-          "id": "site-1756634527581",
-          "name": "Gmail",
-          "url": "ttps://mail.google.com/mail/u/0/#inbox",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=UVMl6gMRl2Sq&format=png&color=000000"
-        },
-        {
-          "id": "site-1756634735278",
-          "name": "QQ邮箱",
-          "url": "https://mail.qq.com",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=16340&format=png&color=000000"
-        },
-        {
-          "id": "site-1756647554741",
-          "name": "Reddit",
-          "url": "https://www.reddit.com/",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=000000"
-        }
-      ]
-    },
-    {
-      "id": "category-1756633771510",
-      "icon": "☁️",
-      "name": "电子宠物",
-      "order": 4,
-      "sites": [
-        {
-          "id": "site-1756638878400",
-          "name": "酒馆",
-          "url": "http://127.0.0.1:8000/",
-          "description": "",
-          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
-        },
-        {
-          "id": "site-1756647262332",
-          "name": "Janitor AI",
-          "url": "https://janitorai.com/",
-          "description": "",
-          "icon": "https://ella.janitorai.com/hotlink-ok/favicon.ico"
-        }
-      ]
+      "id": "my-favorites",
+      "name": "我的常用",
+      "icon": "💥",
+      "order": 16,
+      "sites": []
     }
   ],
   "title": "Iris导航"
