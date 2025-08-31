@@ -104,7 +104,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 3,
+      "order": 2,
       "sites": [
         {
           "id": "bilibili",
@@ -169,7 +169,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 8,
       "sites": [
         {
           "id": "linuxdo",
@@ -270,7 +270,7 @@ export const mockData = {
       "id": "category-1756532703044",
       "icon": "🌐",
       "name": "API大王",
-      "order": 8,
+      "order": 6,
       "sites": [
         {
           "id": "site-1756627500941",
@@ -327,7 +327,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 7,
       "sites": [
         {
           "id": "notion",
@@ -356,7 +356,7 @@ export const mockData = {
       "id": "category-1756569795137",
       "icon": "💻",
       "name": "自建小工具",
-      "order": 10,
+      "order": 5,
       "sites": [
         {
           "id": "site-1756626845092",
@@ -501,7 +501,7 @@ export const mockData = {
       "id": "category-1756633735293",
       "icon": "👥",
       "name": "SNS",
-      "order": 0,
+      "order": 3,
       "sites": [
         {
           "id": "site-1756634162693",
@@ -544,7 +544,7 @@ export const mockData = {
       "id": "category-1756633771510",
       "icon": "☁️",
       "name": "电子宠物",
-      "order": 0,
+      "order": 4,
       "sites": [
         {
           "id": "site-1756638878400",
