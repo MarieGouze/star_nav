@@ -566,6 +566,13 @@ export const mockData = {
           "url": "http://127.0.0.1:8000/",
           "description": "",
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
+        },
+        {
+          "id": "site-1756647262332",
+          "name": "Janitor AI",
+          "url": "https://janitorai.com/",
+          "description": "",
+          "icon": "https://ella.janitorai.com/hotlink-ok/favicon.ico"
         }
       ]
     }
