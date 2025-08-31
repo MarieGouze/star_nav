@@ -479,6 +479,13 @@ export const mockData = {
           "url": "https://japaneseasmr.com/",
           "description": "",
           "icon": "https://marieniris.qzz.io/file/img/1756646302943_cropped-logo-32x32.png"
+        },
+        {
+          "id": "site-1756654609630",
+          "name": "Miss AV",
+          "url": "https://missav.ws/",
+          "description": "",
+          "icon": "https://missav.ws/favicon.ico"
         }
       ]
     },
