@@ -429,6 +429,13 @@ export const mockData = {
           "url": "https://www.nexusmods.com/",
           "description": "",
           "icon": "https://www.nexusmods.com/favicon.ico"
+        },
+        {
+          "id": "site-1756636065005",
+          "name": "Rutracker",
+          "url": "https://rutracker.org/",
+          "description": "",
+          "icon": "https://rutracker.org//favicon.ico"
         }
       ]
     },
@@ -520,7 +527,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "Iris导航",
-  "_fileSha": "4de6ba2e72157bc682b775f26b5136eb095d4602",
-  "search": "google"
+  "title": "Iris导航"
 }
