@@ -457,6 +457,13 @@ export const mockData = {
           "url": "https://dashboard.render.com/",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
+        },
+        {
+          "id": "site-1756745201707",
+          "name": "Github",
+          "url": "https://github.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=zehXPLJSAbBB&format=png&color=000000"
         }
       ]
     },
