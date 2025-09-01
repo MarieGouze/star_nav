@@ -284,6 +284,27 @@ export const mockData = {
           "url": "https://www.iamwawa.cn/zishu.html",
           "description": "",
           "icon": "https://www.iamwawa.cn/favicon.ico"
+        },
+        {
+          "id": "site-1756696513765",
+          "name": "Google Translate",
+          "url": "https://translate.google.com/?hl=zh-cn",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=qt6HeTH0Sv6S&format=png&color=000000"
+        },
+        {
+          "id": "site-1756696547335",
+          "name": "igoutu",
+          "url": "https://igoutu.cn/icons",
+          "description": "图标搜索网站",
+          "icon": "https://marieniris.qzz.io/file/img/1756696787667_屏幕截图_2025-09-01_111822.png"
+        },
+        {
+          "id": "site-1756697202844",
+          "name": "字数统计",
+          "url": "https://www.eteste.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=HtzequoNZ8Sq&format=png&color=000000"
         }
       ]
     },
@@ -570,7 +591,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "Iris导航",
-  "_fileSha": "4aa7da2ec16b18c74b8b86b2884d19dc4e8ee320",
-  "search": "google"
+  "title": "Iris导航"
 }
