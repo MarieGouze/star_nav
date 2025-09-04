@@ -241,6 +241,13 @@ export const mockData = {
           "url": "https://janitorai.com/",
           "description": "",
           "icon": "https://ella.janitorai.com/hotlink-ok/favicon.ico"
+        },
+        {
+          "id": "site-1756954425559",
+          "name": "Sucker?",
+          "url": "https://sucker.severian.dev/",
+          "description": "",
+          "icon": "https://sucker.severian.dev/favicon.ico"
         }
       ]
     },
