@@ -248,6 +248,13 @@ export const mockData = {
           "url": "https://sucker.severian.dev/",
           "description": "",
           "icon": "https://sucker.severian.dev/favicon.ico"
+        },
+        {
+          "id": "site-1756954648122",
+          "name": "角色卡解析翻译器",
+          "url": "http://35.212.247.72:4321/#/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=rdPF5VprGAsc&format=png&color=000000"
         }
       ]
     },
