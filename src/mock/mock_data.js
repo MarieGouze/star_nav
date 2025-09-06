@@ -126,6 +126,13 @@ export const mockData = {
           "url": "https://chatgpt.com",
           "description": "OpenAI,好用👌",
           "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "site-1757128773131",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=1n8AAcZMGBVm&format=png&color=000000"
         }
       ]
     },
