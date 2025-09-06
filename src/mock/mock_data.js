@@ -319,6 +319,13 @@ export const mockData = {
           "url": "https://www.eteste.com/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=HtzequoNZ8Sq&format=png&color=000000"
+        },
+        {
+          "id": "site-1757125629873",
+          "name": "OpenProxyList",
+          "url": "https://openproxylist.com/v2ray/",
+          "description": "免费节点网站",
+          "icon": "https://img.icons8.com/?size=100&id=XR9bBJtw26HX&format=png&color=000000"
         }
       ]
     },
