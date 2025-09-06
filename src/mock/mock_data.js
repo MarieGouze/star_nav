@@ -180,7 +180,7 @@ export const mockData = {
         },
         {
           "id": "site-1756627687855",
-          "name": "Google OAuth 认证管理",
+          "name": "GCLI2API 管理面板",
           "url": "https://moon-it5n.onrender.com/",
           "description": "Gemini cli工具",
           "icon": "https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000"
@@ -348,6 +348,13 @@ export const mockData = {
           "url": "https://mariefreenhappy.dpdns.org/",
           "description": "render账户管理面板",
           "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
+        },
+        {
+          "id": "site-1757124889626",
+          "name": "订阅转换工具",
+          "url": "https://sublink-worker.monickpoxno.workers.dev/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=qQOBMFQpvWKB&format=png&color=000000"
         }
       ]
     },
