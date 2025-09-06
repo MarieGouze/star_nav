@@ -333,6 +333,13 @@ export const mockData = {
           "url": "https://openproxylist.com/v2ray/",
           "description": "免费节点网站",
           "icon": "https://img.icons8.com/?size=100&id=XR9bBJtw26HX&format=png&color=000000"
+        },
+        {
+          "id": "site-1757134000626",
+          "name": "沉浸式翻译文本翻译",
+          "url": "https://app.immersivetranslate.com/text/",
+          "description": "可用来翻译角色卡",
+          "icon": "https://app.immersivetranslate.com/favicon.ico"
         }
       ]
     },
