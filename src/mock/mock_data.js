@@ -645,6 +645,21 @@ export const mockData = {
       "icon": "💥",
       "order": 16,
       "sites": []
+    },
+    {
+      "id": "category-1757755170874",
+      "icon": "💼",
+      "name": "每日签到",
+      "order": -1,
+      "sites": [
+        {
+          "id": "site-1757755234398",
+          "name": "ikuuu",
+          "url": "https://ikuuu.de/user",
+          "description": "ikuuu机场",
+          "icon": "https://ikuuu.de/favicon.ico"
+        }
+      ]
     }
   ],
   "title": "Iris导航"
