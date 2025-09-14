@@ -262,6 +262,13 @@ export const mockData = {
           "url": "http://35.212.247.72:4321/#/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=rdPF5VprGAsc&format=png&color=000000"
+        },
+        {
+          "id": "site-1757880649790",
+          "name": "酒馆（随时随地版",
+          "url": "https://iloveuso.qzz.io/",
+          "description": "自建云酒馆 ",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
         }
       ]
     },
