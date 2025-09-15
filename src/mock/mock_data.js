@@ -681,6 +681,21 @@ export const mockData = {
           "icon": "https://ikuuu.de/favicon.ico"
         }
       ]
+    },
+    {
+      "id": "category-1757944861959",
+      "icon": "🎨",
+      "name": "iloveyouso",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1757944933815",
+          "name": "Moments",
+          "url": "http://146.235.211.48:3000/",
+          "description": "极简朋友圈",
+          "icon": "https://img.icons8.com/?size=100&id=upd5xh7hPe0R&format=png&color=000000"
+        }
+      ]
     }
   ],
   "title": "Iris导航"
