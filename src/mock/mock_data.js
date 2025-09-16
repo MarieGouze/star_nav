@@ -487,7 +487,7 @@ export const mockData = {
         {
           "id": "site-1757928412543",
           "name": "甲骨文云",
-          "url": "https://idcs-0fa1b7396bb1418699bdfae4bbcdf3c6.identity.oraclecloud.com/ui/v1/signin",
+          "url": "https://www.oracle.com/cn/cloud/sign-in.html",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=39913&format=png&color=000000"
         }
