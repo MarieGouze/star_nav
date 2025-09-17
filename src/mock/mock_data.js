@@ -250,11 +250,11 @@ export const mockData = {
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
         },
         {
-          "id": "site-1756647262332",
-          "name": "Janitor AI",
-          "url": "https://janitorai.com/",
-          "description": "",
-          "icon": "https://ella.janitorai.com/hotlink-ok/favicon.ico"
+          "id": "site-1757880649790",
+          "name": "酒馆（随时随地版",
+          "url": "https://iloveuso.qzz.io/",
+          "description": "自建云酒馆 ",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
         },
         {
           "id": "site-1756954425559",
@@ -271,11 +271,11 @@ export const mockData = {
           "icon": "https://img.icons8.com/?size=100&id=rdPF5VprGAsc&format=png&color=000000"
         },
         {
-          "id": "site-1757880649790",
-          "name": "酒馆（随时随地版",
-          "url": "https://iloveuso.qzz.io/",
-          "description": "自建云酒馆 ",
-          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
+          "id": "site-1756647262332",
+          "name": "Janitor AI",
+          "url": "https://janitorai.com/",
+          "description": "",
+          "icon": "https://ella.janitorai.com/hotlink-ok/favicon.ico"
         }
       ]
     },
