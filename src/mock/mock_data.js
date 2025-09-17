@@ -380,7 +380,7 @@ export const mockData = {
         {
           "id": "site-1756627806496",
           "name": "Render Manager",
-          "url": "https://mariefreenhappy.dpdns.org/",
+          "url": " https://star-render.monickpoxno.workers.dev",
           "description": "render账户管理面板",
           "icon": "https://avatars.githubusercontent.com/u/36424661?s=200&v=4"
         },
