@@ -251,7 +251,7 @@ export const mockData = {
         },
         {
           "id": "site-1757880649790",
-          "name": "酒馆（随时随地版",
+          "name": "酒馆（随时随地版)",
           "url": "https://iloveuso.qzz.io/",
           "description": "自建云酒馆 ",
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
