@@ -44,7 +44,7 @@ export const mockData = {
         {
           "id": "site-1758091771963",
           "name": "Moon Tv",
-          "url": "http://146.235.211.48:3001/",
+          "url": "http://163.192.39.35:3001/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=qbXvnWotjMWC&format=png&color=000000"
         }
