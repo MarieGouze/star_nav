@@ -425,6 +425,13 @@ export const mockData = {
           "url": "https://mail.marienluotianyi.qzz.io/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=PuMBlD0n7QJD&format=png&color=000000"
+        },
+        {
+          "id": "site-1758466555129",
+          "name": "CloudPaste",
+          "url": "https://cloudpaste-frontend-89q.pages.dev/admin/dashboard",
+          "description": "",
+          "icon": "https://camo.githubusercontent.com/2d1d19cbb8580225db6fe3c93d285be9c2c8871e3d6469fdfc5a7151b377a5ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f3130302f70617374652e706e67"
         }
       ]
     },
