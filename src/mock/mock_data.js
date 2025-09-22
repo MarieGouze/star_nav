@@ -309,7 +309,7 @@ export const mockData = {
     {
       "id": "community",
       "name": "社区论坛",
-      "icon": "👥",
+      "icon": "🗣️",
       "order": 5,
       "sites": [
         {
@@ -344,7 +344,7 @@ export const mockData = {
     },
     {
       "id": "category-1757944861959",
-      "icon": "🎨",
+      "icon": "💗",
       "name": "Iloveyouso",
       "order": 6,
       "sites": [
@@ -373,7 +373,7 @@ export const mockData = {
     },
     {
       "id": "category-1756633771510",
-      "icon": "☁️",
+      "icon": "🧸",
       "name": "电子宠物",
       "order": 7,
       "sites": [
@@ -595,7 +595,7 @@ export const mockData = {
     },
     {
       "id": "category-1756631859807",
-      "icon": "🌐",
+      "icon": "📔",
       "name": "漫画",
       "order": 12,
       "sites": [
@@ -617,7 +617,7 @@ export const mockData = {
     },
     {
       "id": "category-1756630014194",
-      "icon": "🎨",
+      "icon": "🔞",
       "name": "涩涩",
       "order": 13,
       "sites": [
@@ -746,15 +746,8 @@ export const mockData = {
       ]
     },
     {
-      "id": "my-favorites",
-      "name": "我的常用",
-      "icon": "💥",
-      "order": 17,
-      "sites": []
-    },
-    {
       "id": "category-1757755170874",
-      "icon": "💼",
+      "icon": "🔆",
       "name": "每日签到",
       "order": 18,
       "sites": [
