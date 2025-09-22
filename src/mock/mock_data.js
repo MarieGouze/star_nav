@@ -344,7 +344,7 @@ export const mockData = {
     },
     {
       "id": "category-1757944861959",
-      "icon": "💗",
+      "icon": "💖",
       "name": "Iloveyouso",
       "order": 6,
       "sites": [
