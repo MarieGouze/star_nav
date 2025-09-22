@@ -632,7 +632,7 @@ export const mockData = {
     },
     {
       "id": "category-1756630014194",
-      "icon": "🔞",
+      "icon": "💛",
       "name": "涩涩",
       "order": 14,
       "sites": [
@@ -719,7 +719,7 @@ export const mockData = {
     {
       "id": "learning",
       "name": "学习资源",
-      "icon": "📚",
+      "icon": "✏️",
       "order": 16,
       "sites": [
         {
@@ -740,7 +740,7 @@ export const mockData = {
     },
     {
       "id": "category-1756632141978",
-      "icon": "📊",
+      "icon": "🐑",
       "name": "福利羊毛",
       "order": 17,
       "sites": [
