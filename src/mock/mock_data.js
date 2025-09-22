@@ -308,7 +308,7 @@ export const mockData = {
     },
     {
       "id": "category-1758529692745",
-      "icon": "👻",
+      "icon": "😚",
       "name": "稀奇古怪小玩意",
       "order": 5,
       "sites": [
