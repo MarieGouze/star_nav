@@ -146,7 +146,7 @@ export const mockData = {
     {
       "id": "tools",
       "name": "在线工具",
-      "icon": "⚙️",
+      "icon": "🌐",
       "order": 3,
       "sites": [
         {
@@ -223,7 +223,7 @@ export const mockData = {
     },
     {
       "id": "category-1756569795137",
-      "icon": "💻",
+      "icon": "🪄",
       "name": "自建小工具",
       "order": 4,
       "sites": [
