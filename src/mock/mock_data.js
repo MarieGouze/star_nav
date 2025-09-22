@@ -750,6 +750,13 @@ export const mockData = {
           "url": "https://marie.qzz.io/",
           "description": "自建博客",
           "icon": "https://img.icons8.com/?size=100&id=uIdTRQRhrqmA&format=png&color=000000"
+        },
+        {
+          "id": "site-1758526782897",
+          "name": "Memos",
+          "url": "http://163.192.39.35:5230/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=42933&format=png&color=000000"
         }
       ]
     }
