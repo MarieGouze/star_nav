@@ -51,10 +51,89 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1756633735293",
+      "icon": "👥",
+      "name": "SNS",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1756634162693",
+          "name": "Telegram",
+          "url": "https://web.telegram.org/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=Q7Ekaw3BkWRp&format=png&color=000000"
+        },
+        {
+          "id": "site-1756634254703",
+          "name": "Discord",
+          "url": "https://discord.com/channels/@me",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=6Bc9ur2o7rfS&format=png&color=000000"
+        },
+        {
+          "id": "site-1756634527581",
+          "name": "Gmail",
+          "url": "ttps://mail.google.com/mail/u/0/#inbox",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=UVMl6gMRl2Sq&format=png&color=000000"
+        },
+        {
+          "id": "site-1756634735278",
+          "name": "QQ邮箱",
+          "url": "https://mail.qq.com",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=16340&format=png&color=000000"
+        },
+        {
+          "id": "site-1756647554741",
+          "name": "Reddit",
+          "url": "https://www.reddit.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=000000"
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "name": "社区论坛",
+      "icon": "📲",
+      "order": 2,
+      "sites": [
+        {
+          "id": "linuxdo",
+          "name": "Linux.do",
+          "url": "https://linux.do",
+          "description": "Linux与开源技术社区",
+          "icon": "/sitelogo/linux.do.ico"
+        },
+        {
+          "id": "nodeseek",
+          "name": "NodeSeek",
+          "url": "https://www.nodeseek.com",
+          "description": "极客技术社区",
+          "icon": "/sitelogo/www.nodeseek.com.ico"
+        },
+        {
+          "id": "v2ex",
+          "name": "V2EX",
+          "url": "https://www.v2ex.com",
+          "description": "创意工作者社区",
+          "icon": "/sitelogo/www.v2ex.com.ico"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "/sitelogo/www.52pojie.cn.ico"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 3,
       "sites": [
         {
           "id": "chatgpt",
@@ -101,53 +180,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1756633735293",
-      "icon": "👥",
-      "name": "SNS",
-      "order": 2,
-      "sites": [
-        {
-          "id": "site-1756634162693",
-          "name": "Telegram",
-          "url": "https://web.telegram.org/",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=Q7Ekaw3BkWRp&format=png&color=000000"
-        },
-        {
-          "id": "site-1756634254703",
-          "name": "Discord",
-          "url": "https://discord.com/channels/@me",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=6Bc9ur2o7rfS&format=png&color=000000"
-        },
-        {
-          "id": "site-1756634527581",
-          "name": "Gmail",
-          "url": "ttps://mail.google.com/mail/u/0/#inbox",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=UVMl6gMRl2Sq&format=png&color=000000"
-        },
-        {
-          "id": "site-1756634735278",
-          "name": "QQ邮箱",
-          "url": "https://mail.qq.com",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=16340&format=png&color=000000"
-        },
-        {
-          "id": "site-1756647554741",
-          "name": "Reddit",
-          "url": "https://www.reddit.com/",
-          "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=000000"
-        }
-      ]
-    },
-    {
       "id": "tools",
       "name": "在线工具",
       "icon": "🌐",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "regex101",
@@ -225,7 +261,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "vscode",
@@ -261,7 +297,7 @@ export const mockData = {
       "id": "category-1756569795137",
       "icon": "🪄",
       "name": "自建小工具",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "site-1756626845092",
@@ -346,7 +382,7 @@ export const mockData = {
       "id": "category-1758529692745",
       "icon": "😚",
       "name": "稀奇古怪小玩意",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "site-1758529802231",
@@ -354,42 +390,6 @@ export const mockData = {
           "url": "https://emoji6.com/emojiall/",
           "description": "",
           "icon": "https://emoji6.com/emojiall/favicon.ico"
-        }
-      ]
-    },
-    {
-      "id": "community",
-      "name": "社区论坛",
-      "icon": "📲",
-      "order": 7,
-      "sites": [
-        {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
-        },
-        {
-          "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
-        },
-        {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
         }
       ]
     },
