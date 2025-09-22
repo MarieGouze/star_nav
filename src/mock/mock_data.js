@@ -309,7 +309,7 @@ export const mockData = {
     {
       "id": "community",
       "name": "社区论坛",
-      "icon": "🗣️",
+      "icon": "📲",
       "order": 5,
       "sites": [
         {
