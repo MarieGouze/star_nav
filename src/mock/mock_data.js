@@ -684,6 +684,13 @@ export const mockData = {
           "url": "https://asmr.loan",
           "description": "",
           "icon": "https://marieniris.qzz.io/file/img/1756913154049_屏幕截图_2025-09-03_232430.png"
+        },
+        {
+          "id": "site-1758531637134",
+          "name": "梓澪の妙妙屋",
+          "url": "https://zi0.cc/",
+          "description": "",
+          "icon": "https://img.155155155.xyz/i/2024/02/65da00d5bf894.webp"
         }
       ]
     },
