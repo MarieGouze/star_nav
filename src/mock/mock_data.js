@@ -559,7 +559,7 @@ export const mockData = {
         {
           "id": "site-1756628435631",
           "name": "Gemini API 代理服务",
-          "url": "https://starlight-j5rd.onrender.com/",
+          "url": "https://hajimi-idzc.onrender.com",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=6WRLrWVAXidL&format=png&color=000000"
         },
