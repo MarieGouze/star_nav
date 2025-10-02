@@ -530,9 +530,9 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1756627500941",
-          "name": "Jimihub",
+          "name": "gpt-api-sync",
           "url": "https://starhub-1025.onrender.com/admin/",
-          "description": "哈基米轮询工具",
+          "description": "",
           "icon": "https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000"
         },
         {
