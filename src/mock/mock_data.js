@@ -576,6 +576,13 @@ export const mockData = {
           "url": "https://siliconflow.monickpoxno.workers.dev/admin",
           "description": "",
           "icon": "https://marieniris.qzz.io/file/img/1756628883696_屏幕截图_2025-08-31_162736.png"
+        },
+        {
+          "id": "site-1759474655125",
+          "name": "Model Name Redirect",
+          "url": "https://model-name-redirect.pages.dev/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=aqg632SpA30v&format=png&color=000000"
         }
       ]
     },
