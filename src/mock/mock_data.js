@@ -531,7 +531,7 @@ export const mockData = {
         {
           "id": "site-1756627500941",
           "name": "gpt-api-sync",
-          "url": "https://starhub-1025.onrender.com/admin/",
+          "url": "https://starhub-1025.onrender.com",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000"
         },
