@@ -583,6 +583,13 @@ export const mockData = {
           "url": "https://model-name-redirect.pages.dev/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=aqg632SpA30v&format=png&color=000000"
+        },
+        {
+          "id": "site-1759547511128",
+          "name": "模型名称转换器",
+          "url": "https://model-name-redirect.pages.dev/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=FmWnE9FDYWIu&format=png&color=000000"
         }
       ]
     },
