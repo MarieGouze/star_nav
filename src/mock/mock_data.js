@@ -733,6 +733,13 @@ export const mockData = {
           "url": "https://zi0.cc/",
           "description": "",
           "icon": "https://img.155155155.xyz/i/2024/02/65da00d5bf894.webp"
+        },
+        {
+          "id": "site-1760235894089",
+          "name": "ACG Database",
+          "url": "https://acgdb.de/",
+          "description": "",
+          "icon": "https://pic.rmb.bdstatic.com/bjh/3ed189b421bd/250224/820d1376fb262eae97b42a06e19c03d9.png"
         }
       ]
     },
