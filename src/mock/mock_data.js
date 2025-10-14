@@ -628,13 +628,6 @@ export const mockData = {
       "order": 12,
       "sites": [
         {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
-        },
-        {
           "id": "site-1756646860581",
           "name": "Google Drive",
           "url": "https://drive.google.com/drive/quota",
