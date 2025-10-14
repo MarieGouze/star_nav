@@ -623,8 +623,8 @@ export const mockData = {
     },
     {
       "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
+      "name": "云存储",
+      "icon": "💾",
       "order": 12,
       "sites": [
         {
@@ -640,6 +640,13 @@ export const mockData = {
           "url": "https://onedrive.live.com/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=0ujrDC5ACZpu&format=png&color=000000"
+        },
+        {
+          "id": "site-1760411903103",
+          "name": "922220云盘",
+          "url": "https://cloudreve.922220.xyz/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=CxZGXAfAOsUd&format=png&color=000000"
         }
       ]
     },
