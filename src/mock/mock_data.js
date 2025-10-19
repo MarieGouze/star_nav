@@ -593,7 +593,7 @@ export const mockData = {
         },
         {
           "id": "site-1756628630719",
-          "name": "Marie API",
+          "name": "Marie API (Render版)",
           "url": "https://api-king-1thr.onrender.com/",
           "description": "",
           "icon": "https://marieniris.qzz.io/file/img/1756628623407_logo__1_.png"
@@ -618,6 +618,13 @@ export const mockData = {
           "url": "https://model-name-redirect.pages.dev/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=FmWnE9FDYWIu&format=png&color=000000"
+        },
+        {
+          "id": "site-1760848276208",
+          "name": "Marie API",
+          "url": "https://marienluotianyi.qzz.io/",
+          "description": "",
+          "icon": "https://marieniris.qzz.io/file/img/1759546595572_unnamed.jpg"
         }
       ]
     },
