@@ -403,6 +403,13 @@ export const mockData = {
           "url": "http://125.208.21.128:11005/",
           "description": "",
           "icon": "https://raw.githubusercontent.com/paopaoandlingyia/clip-relay/3a3f9e37f699121cdff58849f7895de4fbebee9d/src/app/favicon.svg"
+        },
+        {
+          "id": "site-1760946011201",
+          "name": "Bitwarden",
+          "url": "https://mariefreenhappy.dpdns.org/",
+          "description": "",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-xYWhwFJs9s0qSkZYyFuz1bFWxSKJUlAvnw&s"
         }
       ]
     },
