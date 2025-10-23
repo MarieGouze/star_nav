@@ -344,7 +344,7 @@ export const mockData = {
         {
           "id": "site-1758026224769",
           "name": "3X-UI",
-          "url": "https://3xui.318712.xyz/",
+          "url": "https://3xui.318712.xyz/IdAHWK9OIECUObfqE9/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=KGtLv43A1ODJ&format=png&color=000000"
         },
