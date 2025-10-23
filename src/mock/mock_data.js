@@ -437,7 +437,7 @@ export const mockData = {
         {
           "id": "site-1757944933815",
           "name": "Moments",
-          "url": "http://163.192.39.35:3000/",
+          "url": "https://moments.318712.xyz/",
           "description": "极简朋友圈",
           "icon": "https://img.icons8.com/?size=100&id=upd5xh7hPe0R&format=png&color=000000"
         },
@@ -451,7 +451,7 @@ export const mockData = {
         {
           "id": "site-1758526782897",
           "name": "Memos",
-          "url": "http://163.192.39.35:5230/",
+          "url": "https://memos.318712.xyz/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=42933&format=png&color=000000"
         }
