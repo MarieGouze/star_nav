@@ -658,7 +658,7 @@ export const mockData = {
         {
           "id": "site-1760411903103",
           "name": "922220云盘",
-          "url": "https://cloudreve.922220.xyz/",
+          "url": "https://cloud.922220.xyz/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=CxZGXAfAOsUd&format=png&color=000000"
         },
