@@ -593,7 +593,7 @@ export const mockData = {
         },
         {
           "id": "site-1756627687855",
-          "name": "GCLI2API 管理面板",
+          "name": "GCLI2API 管理面板(Render版)",
           "url": "https://moon-it5n.onrender.com/",
           "description": "Gemini cli工具",
           "icon": "https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000"
@@ -653,6 +653,13 @@ export const mockData = {
           "url": "https://marienluotianyi.qzz.io/",
           "description": "",
           "icon": "https://marieniris.qzz.io/file/img/1759546595572_unnamed.jpg"
+        },
+        {
+          "id": "site-1765003985354",
+          "name": "GCLI2API 管理面板",
+          "url": "https://gcli.318712.xyz.com/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000"
         }
       ]
     },
