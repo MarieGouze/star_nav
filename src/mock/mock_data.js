@@ -613,6 +613,13 @@ export const mockData = {
           "icon": "https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000"
         },
         {
+          "id": "site-1765984243139",
+          "name": "GCLI2API 管理面板(Zeabur版)",
+          "url": "https://mooncli.zeabur.app/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000"
+        },
+        {
           "id": "site-1756627933433",
           "name": "Gemini Balance",
           "url": "https://gemini-king.onrender.com/",
