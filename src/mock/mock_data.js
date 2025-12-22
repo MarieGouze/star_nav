@@ -518,6 +518,13 @@ export const mockData = {
           "url": "https://janitorai.com/",
           "description": "",
           "icon": "https://ella.janitorai.com/hotlink-ok/favicon.ico"
+        },
+        {
+          "id": "site-1766403425917",
+          "name": "JannyAI",
+          "url": "https://jannyai.com/",
+          "description": "",
+          "icon": "https://jannyai.com/logo.png"
         }
       ]
     },
