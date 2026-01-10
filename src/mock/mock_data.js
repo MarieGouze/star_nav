@@ -73,7 +73,7 @@ export const mockData = {
         {
           "id": "site-1756634527581",
           "name": "Gmail",
-          "url": "ttps://mail.google.com/mail/u/0/#inbox",
+          "url": "https://mail.google.com/mail",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=UVMl6gMRl2Sq&format=png&color=000000"
         },
