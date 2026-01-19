@@ -254,6 +254,13 @@ export const mockData = {
           "url": "https://app.immersivetranslate.com/text/",
           "description": "可用来翻译角色卡",
           "icon": "https://app.immersivetranslate.com/favicon.ico"
+        },
+        {
+          "id": "site-1768814058373",
+          "name": "图像分割器",
+          "url": "https://splitter.imageonline.co/cn/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=wPzUT2otR57P&format=png&color=000000"
         }
       ]
     },
