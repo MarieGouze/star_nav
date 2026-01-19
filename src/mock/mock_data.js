@@ -260,7 +260,7 @@ export const mockData = {
           "name": "图像分割器",
           "url": "https://splitter.imageonline.co/cn/",
           "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=wPzUT2otR57P&format=png&color=000000"
+          "icon": "https://img.icons8.com/?size=100&id=46449&format=png&color=000000"
         }
       ]
     },
