@@ -261,6 +261,13 @@ export const mockData = {
           "url": "https://splitter.imageonline.co/cn/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=46449&format=png&color=000000"
+        },
+        {
+          "id": "site-1770261865459",
+          "name": "SubBoost",
+          "url": "https://ryan-ai.de/",
+          "description": "",
+          "icon": "https://ryan-ai.de/_next/image?url=%2Flogo.png&w=96&q=75"
         }
       ]
     },
