@@ -592,6 +592,13 @@ export const mockData = {
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
         },
         {
+          "id": "site-1770262817665",
+          "name": "酒馆（加速随时随地版)",
+          "url": "https://www.iloveuso.qzz.io/",
+          "description": "",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ANJnAU7Fw8ZHRmlMNbpAakY_WqoMk2AzZQ&s"
+        },
+        {
           "id": "site-1756954425559",
           "name": "Sucker?",
           "url": "https://sucker.severian.dev/",
