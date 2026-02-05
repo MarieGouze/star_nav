@@ -466,7 +466,7 @@ export const mockData = {
     {
       "id": "category-1770262013128",
       "icon": "🏄🏻",
-      "name": "超好冲浪",
+      "name": "冲浪超赞",
       "order": 8,
       "sites": [
         {
