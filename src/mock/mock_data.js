@@ -632,6 +632,13 @@ export const mockData = {
           "url": "http://117.72.149.83:4321/#/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=rdPF5VprGAsc&format=png&color=000000"
+        },
+        {
+          "id": "site-1770659565079",
+          "name": " 喵喵角色卡工坊（Cloudflare云同步版)",
+          "url": "https://meow-card.318712.xyz/",
+          "description": "",
+          "icon": "https://igoutu.cn/icon/121371/cat"
         }
       ]
     },
