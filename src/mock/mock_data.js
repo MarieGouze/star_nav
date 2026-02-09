@@ -625,6 +625,13 @@ export const mockData = {
           "url": "https://jannyai.com/",
           "description": "",
           "icon": "https://jannyai.com/logo.png"
+        },
+        {
+          "id": "site-1770647464553",
+          "name": " 喵喵角色卡工坊",
+          "url": "https://cat-card.318712.xyz/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=121407&format=png&color=000000"
         }
       ]
     },
