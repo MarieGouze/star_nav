@@ -620,6 +620,13 @@ export const mockData = {
           "icon": "https://img.icons8.com/?size=100&id=121407&format=png&color=000000"
         },
         {
+          "id": "site-1770659703132",
+          "name": " 喵喵角色卡工坊（Github云同步版)",
+          "url": "https://meow-meow.318712.xyz/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=LBSkqn2kascw&format=png&color=000000"
+        },
+        {
           "id": "site-1770659565079",
           "name": " 喵喵角色卡工坊（Cloudflare云同步版)",
           "url": "https://meow-card.318712.xyz/",
@@ -627,11 +634,25 @@ export const mockData = {
           "icon": "https://img.icons8.com/?size=100&id=Ev3EAcxwzUVo&format=png&color=000000"
         },
         {
-          "id": "site-1770659703132",
-          "name": " 喵喵角色卡工坊（Github云同步版)",
-          "url": "https://meow-meow.318712.xyz/",
+          "id": "site-1770789145224",
+          "name": "世界书翻译工坊",
+          "url": "https://mariegouze.github.io/cat-lorebook/",
           "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=LBSkqn2kascw&format=png&color=000000"
+          "icon": "https://img.icons8.com/?size=100&id=G5LWpVSWK7RS&format=png&color=000000"
+        },
+        {
+          "id": "site-1770789488857",
+          "name": "世界书翻译工坊（Github云同步版)",
+          "url": "https://mariegouze.github.io/meow-lorebook/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=4hz2T9EXxByf&format=png&color=000000"
+        },
+        {
+          "id": "site-1770789210788",
+          "name": "世界书翻译工坊（Cloudflare云同步版)",
+          "url": "https://meow-book.monickpoxno.workers.dev/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=REr107sunZKc&format=png&color=000000"
         },
         {
           "id": "site-1756954425559",
