@@ -636,14 +636,14 @@ export const mockData = {
         {
           "id": "site-1770789145224",
           "name": "世界书翻译工坊",
-          "url": "https://mariegouze.github.io/cat-lorebook/",
+          "url": "https://cat-lorebook.318712.xyz/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=G5LWpVSWK7RS&format=png&color=000000"
         },
         {
           "id": "site-1770789488857",
           "name": "世界书翻译工坊（Github云同步版)",
-          "url": "https://mariegouze.github.io/meow-lorebook/",
+          "url": "https://meow-lorebook.318712.xyz/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=4hz2T9EXxByf&format=png&color=000000"
         },
