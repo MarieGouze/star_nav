@@ -634,6 +634,13 @@ export const mockData = {
           "icon": "https://img.icons8.com/?size=100&id=Ev3EAcxwzUVo&format=png&color=000000"
         },
         {
+          "id": "site-1770996202671",
+          "name": "-喵喵补丁生成器",
+          "url": "https://meow-sync.monickpoxno.workers.dev/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=v4AIFGxhL1lB&format=png&color=000000"
+        },
+        {
           "id": "site-1770789145224",
           "name": "世界书翻译工坊",
           "url": "https://cat-lorebook.318712.xyz/",
