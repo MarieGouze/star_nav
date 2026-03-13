@@ -932,6 +932,13 @@ export const mockData = {
           "icon": "https://pic.rmb.bdstatic.com/bjh/3ed189b421bd/250224/820d1376fb262eae97b42a06e19c03d9.png"
         },
         {
+          "id": "site-1773423324797",
+          "name": "猫猫网盘",
+          "url": "https://catcat.cloud/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=yJsztuHe4CLa&format=png&color=000000"
+        },
+        {
           "id": "site-1760236535019",
           "name": "ASMR Free",
           "url": "https://asmrfree.com/",
