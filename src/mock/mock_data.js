@@ -754,6 +754,13 @@ export const mockData = {
           "icon": "https://marieniris.qzz.io/file/img/1756628303946_logo.png"
         },
         {
+          "id": "site-1778166308708",
+          "name": "DS2API",
+          "url": "https://ds4u.318712.xyz/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000"
+        },
+        {
           "id": "site-1756628435631",
           "name": "Gemini API 代理服务",
           "url": "https://hajimi-idzc.onrender.com",
