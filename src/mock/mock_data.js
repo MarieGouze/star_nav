@@ -544,7 +544,7 @@ export const mockData = {
           "name": "WorldLink",
           "url": "https://worldlink.ccwu.cc/4u",
           "description": "",
-          "icon": "https://www.google.com/imgres?q=cfnew&imgurl=https%3A%2F%2Fwww.openklc.com%2Fwp-content%2Fuploads%2F2026%2F05%2FbyJoey_cfnew_20260523003949.png&imgrefurl=https%3A%2F%2Fwww.openklc.com%2F1081.html&docid=Psezm8YduNHykM&tbnid=X_-PtET0OaysEM&vet=12ahUKEwjL6dLH-u2UAxVmEDQIHRI2JxQQnPAOegQIGBAB..i&w=1200&h=630&hcb=2&ved=2ahUKEwjL6dLH-u2UAxVmEDQIHRI2JxQQnPAOegQIGBAB"
+          "icon": "https://img.icons8.com/?size=100&id=UyL3Puw5w51d&format=png&color=000000"
         }
       ]
     },
