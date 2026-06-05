@@ -460,6 +460,13 @@ export const mockData = {
           "url": "https://mariefreenhappy.dpdns.org/",
           "description": "",
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-xYWhwFJs9s0qSkZYyFuz1bFWxSKJUlAvnw&s"
+        },
+        {
+          "id": "site-1780666347211",
+          "name": "The Editor",
+          "url": "https://mariegouze.github.io/The-editor/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
