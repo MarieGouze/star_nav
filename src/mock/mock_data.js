@@ -467,6 +467,13 @@ export const mockData = {
           "url": "https://mariegouze.github.io/The-editor/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1780670378400",
+          "name": "The Editor",
+          "url": "https://mariegouze.github.io/The-editor/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=SXXp4adRvqRc&format=png&color=000000"
         }
       ]
     },
