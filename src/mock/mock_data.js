@@ -477,6 +477,13 @@ export const mockData = {
       "order": 8,
       "sites": [
         {
+          "id": "site-1781673116534",
+          "name": "SG-3X-UI",
+          "url": "https://starlink.318712.xyz/YuIFtnuwcgBHFJeVtP/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=KGtLv43A1ODJ&format=png&color=000000"
+        },
+        {
           "id": "site-1758026224769",
           "name": "3X-UI",
           "url": "https://3xui.318712.xyz/IdAHWK9OIECUObfqE9/",
