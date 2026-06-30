@@ -666,7 +666,7 @@ export const mockData = {
           "name": "角色卡宝箱",
           "url": "https://mariegouze.github.io/Card-Chest/",
           "description": "",
-          "icon": "https://img.icons8.com/?size=100&id=yDthmlyM14Pl&format=png&color=000000"
+          "icon": "https://img.icons8.com/?size=100&id=22467&format=png&color=000000"
         },
         {
           "id": "site-1770647464553",
