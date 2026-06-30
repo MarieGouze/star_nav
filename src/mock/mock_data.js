@@ -662,6 +662,13 @@ export const mockData = {
           "icon": "https://jannyai.com/logo.png"
         },
         {
+          "id": "site-1782831100122",
+          "name": "角色卡宝箱",
+          "url": "https://mariegouze.github.io/Card-Chest/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=yDthmlyM14Pl&format=png&color=000000"
+        },
+        {
           "id": "site-1770647464553",
           "name": " 喵喵角色卡工坊",
           "url": "https://cat-card.318712.xyz/",
