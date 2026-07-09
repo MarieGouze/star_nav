@@ -718,6 +718,13 @@ export const mockData = {
           "icon": "https://img.icons8.com/?size=100&id=REr107sunZKc&format=png&color=000000"
         },
         {
+          "id": "site-1783641414914",
+          "name": "Novel Creator",
+          "url": "https://mariegouze.github.io/novel-creator/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=tkhqCTJ1ic2S&format=png&color=000000"
+        },
+        {
           "id": "site-1773119849859",
           "name": "表格迁移工具",
           "url": "https://mariegouze.github.io/table-transfer/",
