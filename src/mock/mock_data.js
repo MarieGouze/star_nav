@@ -751,6 +751,13 @@ export const mockData = {
           "url": "https://mariegouze.github.io/memes/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=ccu41NwexXtu&format=png&color=000000"
+        },
+        {
+          "id": "site-1783831292459",
+          "name": "Marie's Chest Bundler",
+          "url": "https://mariegouze.github.io/Marie-s-Chest-Bundler/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=vfv1AbUEfpHl&format=png&color=000000"
         }
       ]
     },
