@@ -758,6 +758,13 @@ export const mockData = {
           "url": "https://mariegouze.github.io/Marie-s-Chest-Bundler/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=vfv1AbUEfpHl&format=png&color=000000"
+        },
+        {
+          "id": "site-1784098780364",
+          "name": "The Editor Bundler",
+          "url": "https://mariegouze.github.io/The-Editor-Bundler/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=Mnw1oDkF00DJ&format=png&color=000000"
         }
       ]
     },
