@@ -765,6 +765,13 @@ export const mockData = {
           "url": "https://mariegouze.github.io/The-Editor-Bundler/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=Mnw1oDkF00DJ&format=png&color=000000"
+        },
+        {
+          "id": "site-1784797724697",
+          "name": "喵喵角色卡打包器",
+          "url": "https://mariegouze.github.io/cat-card-bundler/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=107714&format=png&color=000000"
         }
       ]
     },
