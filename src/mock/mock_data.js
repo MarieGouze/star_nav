@@ -474,6 +474,13 @@ export const mockData = {
           "url": "https://mariegouze.github.io/The-editor/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=SXXp4adRvqRc&format=png&color=000000"
+        },
+        {
+          "id": "site-1784972489533",
+          "name": "喵喵书源加工站",
+          "url": "https://mariegouze.github.io/Book-source-deduplication-tool/",
+          "description": "",
+          "icon": "https://img.icons8.com/?size=100&id=549&format=png&color=000000"
         }
       ]
     },
