@@ -481,6 +481,20 @@ export const mockData = {
           "url": "https://mariegouze.github.io/Book-source-deduplication-tool/",
           "description": "",
           "icon": "https://img.icons8.com/?size=100&id=549&format=png&color=000000"
+        },
+        {
+          "id": "site-1785592530469",
+          "name": "SG Syncthing",
+          "url": "https://syncthing.093404.xyz/",
+          "description": "",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrLsWN6INy3OGZLSh1zvj04DJS0gm5XRTvJnnhMs9Cw&s=10"
+        },
+        {
+          "id": "site-1785592563971",
+          "name": "Syncthing",
+          "url": "https://syncthing.318712.xyz/",
+          "description": "",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrLsWN6INy3OGZLSh1zvj04DJS0gm5XRTvJnnhMs9Cw&s=10"
         }
       ]
     },
