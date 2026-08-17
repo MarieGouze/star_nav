@@ -1221,7 +1221,7 @@ export const mockData = {
           "name": "UMMoodle",
           "url": "https://ummoodle.um.edu.mo/my/",
           "description": "",
-          "icon": ""
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ylCGfbU8Oqm41eQIuTIovtlp59kjoJugqXuurAq3tA&s=10"
         }
       ]
     }
