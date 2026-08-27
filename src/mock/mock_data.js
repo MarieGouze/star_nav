@@ -1236,6 +1236,13 @@ export const mockData = {
           "url": "https://library.um.edu.mo/lib_homepage_cn",
           "description": "",
           "icon": "https://library.um.edu.mo/images/UM/header/library_logo.png?v=1"
+        },
+        {
+          "id": "site-1787799729027",
+          "name": "UM Fitness ",
+          "url": "https://isw.um.edu.mo/cdweb/pages/direct/fitnessRoomUsage",
+          "description": "",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwMQyrNQ-jTxD7pFCSVNWIreVXuLBVtYRzUMYciKKkg&s=10"
         }
       ]
     }
